@@ -1,0 +1,29 @@
+html,body,div,table,tbody,th,td,tr,h1,h2,h3,h4,h5,h6,span,ul,li,a
+{
+	direction:rtl;
+}
+.delImg
+{
+	position:absolute;
+	top:0;
+	#right:100px;
+	
+	display:block;
+	font-size:20px;
+}
+.editImg
+{
+	#position:absolute;
+	#top:0;
+	#right:20px;
+	float:left;
+	font-size:24px;
+}
+#notice
+{
+	background:rgba(255,255,255,0.2);
+	color:red;
+	font-size:20;
+	text-align:center;
+	padding:15px;
+}
